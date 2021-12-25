@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lec2RecipesDemo</string>
+    <string name="txtTitle">Bruschetta Recipe</string>
+    <string name="txtIngred">Ingredients</string>
+    <string name="btnTxtShowRecipe">Show Recipe</string>
+    <string name="txtIngred1">4 Plum Tomatoes</string>
+    <string name="txtIngred2">6 basil leaves</string>
+    <string name="txtIngred3">3 garlic cloves, chopped</string>
+    <string name="txtIngred4">3 TB olive oil</string>
+    <string name="txtDirecnsTitle">Directions</string>
+    <string name="txtDirecns">Combine the ingredients and add salt to taste. Top French bread slices with mixture.</string>
+</resources>
